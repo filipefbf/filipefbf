@@ -1,16 +1,12 @@
 Hi there/ Olá!!! 👋
 
 Meu nome é Filipe, sou dev Front End autodidata para diversas tecnologias, atualmente estou me graduando para Analise e desenvolvimento de Sistemas.
--📧 email: filipe_fbf@hotmail.com
--💻 LinkedIn: www.linkedin.com/in/filipe-ferreira-dev
--🌱 Rumo ao full Stack
+
+- 📧 email: filipe_fbf@hotmail.com
+- 💻 LinkedIn: www.linkedin.com/in/filipe-ferreira-dev
+- 🌱 Rumo ao full Stack
 
 #OpenToWork
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
 <!--
 **filipefbf/filipefbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
