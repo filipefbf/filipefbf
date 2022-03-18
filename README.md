@@ -7,6 +7,10 @@ Meu nome é Filipe, sou dev Front End autodidata para diversas tecnologias, atua
 
 #OpenToWork
 
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 
 <!--
 **filipefbf/filipefbf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
