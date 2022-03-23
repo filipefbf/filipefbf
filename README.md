@@ -4,7 +4,7 @@ Meu nome é Filipe, sou dev Front End autodidata para diversas tecnologias, sou 
 
 - 📧 email: filipe_fbf@hotmail.com
 - 💻 LinkedIn: www.linkedin.com/in/filipe-ferreira-dev
-- 🌱 Rumo ao full Stack
+- 🌱 Rumo ao full Stack através do Node.js
 
 #OpenToWork
 
@@ -14,7 +14,7 @@ I'm Filipe, Front End developer self-taught for some technologies and languages 
 
 - 📧 email: filipe_fbf@hotmail.com
 - 💻 LinkedIn: www.linkedin.com/in/filipe-ferreira-dev
-- 🌱 Towards the full stack
+- 🌱 Towards the full stack with Node.js
 
 #OpenToWork
 
