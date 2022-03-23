@@ -1,6 +1,6 @@
 # PT-BR # Olá!!! 👋
 
-Meu nome é Filipe, sou dev Front End autodidata para diversas tecnologias, atualmente estou me graduando para Analise e desenvolvimento de Sistemas.
+Meu nome é Filipe, sou dev Front End autodidata para diversas tecnologias, sou desenvolvedor junior em HTML5, CSS3, jAVASCRIPT E Bootstrap, atualmente estou me graduando para Analise e desenvolvimento de Sistemas.
 
 - 📧 email: filipe_fbf@hotmail.com
 - 💻 LinkedIn: www.linkedin.com/in/filipe-ferreira-dev
